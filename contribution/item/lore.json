@@ -58,6 +58,7 @@
 			"A relic of the past that found its way back into cyberspace. An unrecognizable runic symbol was engraved in the side of the ${itemType} that dates back to the pre-cyberpunk era.",
 			"Hand etched.  Comfort grooved. Padded exactly correctly, and machined appropriately.  The Arasaka logo is stamped prominently on this ${itemName}.  A quality piece.",
 			"The ${itemName} is a prized possession of the highest top 3 level gangs CyberPsychos, Cellar_Door and Netrunners_RU. Handed down from Member to Member it is a sign of gratitude for the Gang Resources raised."
+                       
 		],
 		"EPIC": [
 			"A one-of-a-kind engineering marvel, this ${itemName} is highly sought after by the ultra-rich and elite gang leaders alike. Extremely valuable and powerful.",
@@ -66,6 +67,7 @@
 			"Net runners have been spreading rumors about ${itemName} for many years. This ${itemType} is worth half your local GDP! Perhaps the runners are still looking? The shadows seem to move by themselves. Who is out there?",
 			"Even with a big win at pachinko, one could not afford this ${itemName}. It is marked with an expensive industrial dynamic hologram barcode which is found only on limited ultra-premium ${itemType} prototypes.",
 			"The splendor of this ${itemType} is second to none. This is the famous ${itemName}. This little baby is one in a million. Its owner could hobnob with the ridiculously wealthy. This fabulous treasure is unobtainable at any price, the rarest in the galaxy."
+                        "${itemName} is created by God for the Heros to save humanity from evil beings only few people can get this godly thing."
 		]
 	}
 }
